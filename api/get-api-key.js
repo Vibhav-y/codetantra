@@ -2,7 +2,7 @@
 const validMachineIds = {
     '0C-54-15-93-EB-DA': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     '10-6F-D9-32-D8-53': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
-    '0C-54-15-93-EB-DC': 'api_key_for_machine_3',
+    '00-41-0E-2B-A2-79': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     // Add more machine IDs and their associated API keys here
 };
 

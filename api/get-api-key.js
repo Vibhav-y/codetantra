@@ -1,11 +1,11 @@
 // api/get-api-key.js
 const validMachineIds = {
-    '0C-54-15-93-EB-DA': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
-    '10-6F-D9-32-D8-53': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
-    '00-41-0E-2B-A2-79': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
-    '10-68-38-0A-54-05': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
-    '2C-3B-70-58-89-1D': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
-    '10-3D-1C-42-90-73': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
+    '0C-54-15-93-EB-DA': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //VIBHAV
+    '10-6F-D9-32-D8-53': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SHREY
+    '00-41-0E-2B-A2-79': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //ABHINAV
+    '10-68-38-0A-54-05': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAJI
+    '2C-3B-70-58-89-1D': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //PREM
+    '10-3D-1C-42-90-73': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //ABHINAV
     '14-D4-24-34-99-91': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     // Add more machine IDs and their associated API keys here
 };

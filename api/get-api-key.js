@@ -21,6 +21,7 @@ const validMachineIds = {
     '2C-8D-B1-51-8D-CB': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 4
     // '50-5A-65-F6-04-B7': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     '14-D4-24-34-99-91': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
+    'B0-A4-60-BA-55-22': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     // Add more machine IDs and their associated API keys here
 };
 

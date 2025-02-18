@@ -11,19 +11,18 @@ const validMachineIds = {
     'F4-26-79-3A-1B-69': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SHREY
     'CC-47-40-2E-E3-AE': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SHREY
     '00-D4-9E-BD-CE-5F': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI
-    'A4-42-3B-6B-3F-DC': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     'DC-21-5C-6A-86-B9': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI
     'CC-47-40-1E-D6-00': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 1
     '10-68-38-74-02-11': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 2
     'D4-1B-81-C9-BD-D9': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 3
-    'C4-3D-1A-57-82-76': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 2
-    '88-B1-11-DO-A7-7F': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 2
+    'C4-3D-1A-57-82-76': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 4
+    '88-B1-11-DO-A7-7F': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 5
+    '2C-8D-B1-51-8D-CB': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 6
     '50-5A-65-F6-04-B7': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SHREY
     'B4-8C-9D-5E-2A-97': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
-    '2C-8D-B1-51-8D-CB': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 4
-    // '50-5A-65-F6-04-B7': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
+    'A4-42-3B-6B-3F-DC': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     '14-D4-24-34-99-91': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
-    // 'B0-A4-60-BA-55-22': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
+    '50-5A-65-F6-C5-2B': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     // Add more machine IDs and their associated API keys here
 };
 

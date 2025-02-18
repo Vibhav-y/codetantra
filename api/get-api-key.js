@@ -13,6 +13,9 @@ const validMachineIds = {
     '00-D4-9E-BD-CE-5F': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI
     'A4-42-3B-6B-3F-DC': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     'DC-21-5C-6A-86-B9': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI
+    'CC-47-40-1E-D6-00': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 1
+    '10-68-38-74-02-11': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 2
+    'D7-1B-81-C9-BD-D9': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 3
     
     // '14-D4-24-34-99-91': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     // Add more machine IDs and their associated API keys here

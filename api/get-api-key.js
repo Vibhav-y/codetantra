@@ -18,6 +18,7 @@ const validMachineIds = {
     'C4-3D-1A-57-82-76': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 6
     '88-B1-11-DO-A7-7F': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 7
     '2C-8D-B1-51-8D-CB': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAKCHI 8
+    '50-5A-65-B5-AF-44': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     '50-5A-65-F6-04-B7': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SHREY
     'B4-8C-9D-5E-2A-97': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     'A4-42-3B-6B-3F-DC': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',

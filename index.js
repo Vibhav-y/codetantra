@@ -1,2 +1,2 @@
-require('./api/get-api-key');
-require('./sql/sql_api');
+require('./api/get-api-key.js');
+require('./sql/sql_api.js');

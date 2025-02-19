@@ -1,9 +1,9 @@
 {
-    "name": "codetantra",
-    "version": "1.0.0",
-    "main": "api/get-api-key.js",
-    "scripts": {
-        "start": "node api/get-api-key.js"
-    },
-    "dependencies": {}
+  "name": "codetantra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
 }

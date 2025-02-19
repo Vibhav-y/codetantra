@@ -1,6 +1,6 @@
 // api/get-api-key.js
 const validMachineIds = {
-    '0C-54-15-93-EB-DA': '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', //VIBHAV
+    '0C-54-15-93-EB-DA': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //VIBHAV
     '10-6F-D9-32-D8-53': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SHREY
     '00-41-0E-2B-A2-79': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //ABHINAV
     '10-68-38-0A-54-05': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo', //SAJI

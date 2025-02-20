@@ -30,7 +30,7 @@ const validMachineIds = {
     '14-D4-24-14-50-14': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     '2A-4B-F5-45-D0-EA': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
     '7E-BB-4F-3E-21-8E': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
-    '16-3C-55-CB-FF-32': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
+    'BC-6E-E2-BA-86-91': 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo',
 
 
     // Add more machine IDs and their associated API keys here

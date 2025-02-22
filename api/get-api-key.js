@@ -1,7 +1,7 @@
 // api/get-api-key.js
-const validMachineIds = [
+const validMachineIds = (
     '0C-54-15-93-EB-DA',
-];
+);
 
 export default function handler(req, res) {
     const api = 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo'

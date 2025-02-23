@@ -1,5 +1,5 @@
 const API_KEY = 'AIzaSyCqfTBkRhGHZF62Kc8ROSWvxmutb_4Abvo'; // Replace with your actual API key
-const validMachineIds = new Set(['0C-54-15-93-EB-DA', '09-12-34-sd-3w']); // Initial machine IDs
+const validMachineIds = new Set(['0C-54-15-93-EB-DA', '09-12-34-sd-3w',]); // Initial machine IDs
 
 export default function handler(req, res) {
     if (req.method === 'POST') {

@@ -3,7 +3,8 @@ const validMachineIds = new Set(['0C-54-15-93-EB-DA', //vibhav
                                  '00-41-0E-2B-A2-79',
                                  '10-68-38-0A-54-05', //Saji
                                  '10-6F-D9-32-D8-53', //SHREY
-                                 '1E-2B-C4-B2-72-B7' //SHREY DUSRE KA
+                                 '1E-2B-C4-B2-72-B7', //SHREY DUSRE KA
+                                 '00-50-56-C0-00-08'
                                 ]); // Initial machine IDs
 
 export default function handler(req, res) {
